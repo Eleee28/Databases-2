@@ -1,6 +1,6 @@
 # Databases 2
 
-This repository contains all materials of the subject of Databases 2.
+This repository contains all materials of the subject Databases 2.
 
 ## Folder Organization
 
