@@ -1,10 +1,3 @@
 # Databases 2
 
-This repository contains all materials of the subject Databases 2.
-
-## Folder Organization
-
-- ``lab1``: Data Normalization
-- ``lab2``: Querying
-- ``lab3``: Procedural Programming
-- ``tutorials``: Mixed exercises
+This repository contains all materials of the subject Databases 2 (3rd Year Computer Science International TUD - TU858/3).
